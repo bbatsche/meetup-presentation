@@ -5,7 +5,6 @@ import copy from "rollup-plugin-copy";
 import eslint from "@rollup/plugin-eslint";
 import postcss from "rollup-plugin-postcss";
 import resolve from "@rollup/plugin-node-resolve";
-import scss from "rollup-plugin-scss";
 import { terser } from "rollup-plugin-terser";
 
 const prod = process.env.NODE_ENV === "production";
@@ -15,20 +14,10 @@ const copyTargets = [
     src: [
       "./node_modules/reveal.js/dist/reveal.css",
       "./node_modules/reveal.js/dist/reset.css",
+      "./node_modules/reveal.js/dist/theme",
+      "./node_modules/reveal.js/plugin/highlight/monokai.css"
     ],
     dest: "./css",
-  },
-  {
-    src: "./node_modules/reveal.js/dist/theme",
-    dest: "./css",
-  },
-  {
-    src: "./node_modules/reveal.js/dist/reveal.js",
-    dest: "./js",
-  },
-  {
-    src: "./node_modules/reveal.js/plugin/**/*",
-    dest: "./plugin",
   },
 ];
 
@@ -44,7 +33,6 @@ const plugins = [
     babelHelpers: "bundled",
   }),
   prod && terser(),
-  scss(),
   postcss({
     plugins: [autoprefixer()],
     extract: true,
