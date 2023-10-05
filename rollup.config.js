@@ -46,9 +46,9 @@ const plugins = [
 
 export default [
   {
-    input: "js/revealjs-starter",
+    input: "js/slides",
     output: {
-      file: "out/revealjs-starter.js",
+      file: "out/slides.js",
       format: "esm",
       name: "Reveal.js Starter",
       sourcemap: prod ? false : "inline",

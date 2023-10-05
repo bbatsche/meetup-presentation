@@ -1,21 +1,18 @@
 {
-  "name": "revealjs-starter",
-  "version": "1.1.0",
-  "description": "Create Reveal.js presentations easily",
+  "name": "@bebat/meetup-presentation",
+  "version": "1.0.0",
+  "description": "Presentation on developer friendly open source projects for SA WebDev meetup",
   "scripts": {
     "serve": "browser-sync start --server --files 'out/*.css,out/*.js,index.md,index.html' | rollup -c -w",
     "build": "NODE_ENV=production rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hschne/reveal.js-starter.git"
+    "url": "git+https://github.com/bbatsche/meetup-presentation.git"
   },
-  "author": "Hans Schnedlitz",
+  "author": "Ben Batschelet",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hschne/reveal.js-starter#issues"
-  },
-  "homepage": "https://github.com/hschne/reveal.js-starter#readme",
+  "homepage": "https://github.com/bbatsche/meetup-presentation",
   "dependencies": {
     "reveal.js": "^4.4.0"
   },
