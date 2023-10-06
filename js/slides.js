@@ -15,4 +15,7 @@ Reveal.initialize({
     transition: "none",
     history: "true",
     plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+    markdown: {
+        smartypants: true,
+    },
 });
