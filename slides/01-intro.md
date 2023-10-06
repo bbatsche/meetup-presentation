@@ -1,7 +1,7 @@
 <!-- .slide: data-transition="slide" -->
 # Developer Friendly Projects
 
-Creating an open source project that developers *want* to contribute to
+Creating open source projects developers *enjoy* contributing to
 
 ---
 
@@ -12,7 +12,7 @@ Creating an open source project that developers *want* to contribute to
 - Web developer for 15 years <!-- .element: class="fragment" -->
 - Senior software engineer with Adobe <!-- .element: class="fragment" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Who am I?
@@ -28,14 +28,14 @@ Creating an open source project that developers *want* to contribute to
 
 ### What is a "developer friendly project"? <!-- .element: class="fragment" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 ## What is this presentation *not* about?
 
 ### What is a "developer friendly project"?
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 ## What is this presentation *not* about?

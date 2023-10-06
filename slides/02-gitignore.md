@@ -8,12 +8,12 @@ vendor
 
 ## Done! <!-- .element: class="fragment" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" -->
 # Hold up!
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore
@@ -23,7 +23,7 @@ vendor
 ```
 <!-- .element: data-line-numbers data-id="gitignore" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore
@@ -36,12 +36,12 @@ composer.lock
 
 ## Done! <!-- .element: class="fragment" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" -->
 # Seriously, hold up!
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore
@@ -52,20 +52,7 @@ composer.lock
 ```
 <!-- .element: data-line-numbers data-id="gitignore" -->
 
-===
-
-<!-- .slide: data-transition="slide" data-auto-animate -->
-# Gitignore
-
-```sh
-vendor
-composer.lock
-.DS_Store
-Thumbs.db
-```
-<!-- .element: data-line-numbers data-id="gitignore" -->
-
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore
@@ -75,11 +62,10 @@ vendor
 composer.lock
 .DS_Store
 Thumbs.db
-# Linux?
 ```
 <!-- .element: data-line-numbers data-id="gitignore" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore
@@ -90,23 +76,37 @@ composer.lock
 .DS_Store
 Thumbs.db
 # Linux?
-# Editors?
 ```
 <!-- .element: data-line-numbers data-id="gitignore" -->
 
-===
+***
+
+<!-- .slide: data-transition="slide" data-auto-animate -->
+# Gitignore
+
+```sh
+vendor
+composer.lock
+.DS_Store
+Thumbs.db
+# Linux?
+# Other editors?
+```
+<!-- .element: data-line-numbers data-id="gitignore" -->
+
+***
 
 <!-- .slide: data-transition="slide-in fade-out" -->
 # Gitignore
 
-===
+***
 
 <!-- .slide: data-transition="fade-in slide-out" data-auto-animate -->
 # Gitignore.io
 
-![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment" -->
+![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore.io
@@ -126,7 +126,7 @@ composer.lock
 # ...
 ```
 
-===
+***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Gitignore.io
@@ -136,7 +136,7 @@ composer.lock
 200 line `.gitignore` files
 <!-- .element: class="fragment" -->
 
-===
+***
 
 <!-- .slide: data-transition="slide" -->
 ```sh
