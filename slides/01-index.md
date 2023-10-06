@@ -1,3 +1,4 @@
+<!-- .slide: data-transition="slide" -->
 # Developer Friendly Projects
 
 Creating an open source project that developers *want* to contribute to
