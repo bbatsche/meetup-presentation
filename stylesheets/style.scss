@@ -4,10 +4,16 @@ $primary-color: #eb811b;
   color: $primary-color;
 }
 
-.reveal blockquote {
-  border-left-style: solid;
-  border-left-width: 4px;
-  border-left-color: $primary-color;
-  padding-left: 1rem !important;
-  text-align: left;
+.reveal {
+  blockquote {
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: $primary-color;
+    padding-left: 1rem !important;
+    text-align: left;
+  }
+
+  h1, h2, h3 {
+    text-transform: none;
+  }
 }
