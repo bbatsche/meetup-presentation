@@ -104,7 +104,7 @@ Thumbs.db
 <!-- .slide: data-transition="fade-in slide-out" data-auto-animate -->
 # Gitignore.io
 
-![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" -->
+![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" style="width: 640px" -->
 
 ***
 
