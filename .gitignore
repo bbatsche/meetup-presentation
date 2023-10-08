@@ -243,7 +243,4 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,node,emacs,sublimetext,visualstudiocode
 
-/css/theme
-/css/monokai.css
-/css/reset.css
-/css/reveal.css
+/css/*

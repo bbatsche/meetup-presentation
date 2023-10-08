@@ -15,7 +15,8 @@ const copyTargets = [
       "./node_modules/reveal.js/dist/reveal.css",
       "./node_modules/reveal.js/dist/reset.css",
       "./node_modules/reveal.js/dist/theme",
-      "./node_modules/reveal.js/plugin/highlight/monokai.css"
+      "./node_modules/reveal.js/plugin/highlight/monokai.css",
+      "./node_modules/reveal.js/plugin/highlight/zenburn.css",
     ],
     dest: "./css",
   },

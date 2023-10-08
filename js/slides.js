@@ -18,6 +18,6 @@ Reveal.initialize({
     markdown: {
         smartypants: true,
     },
-    width: 1280,
-    height: 800
+    width: 1024,
+    height: 640
 });
