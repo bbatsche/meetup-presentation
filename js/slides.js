@@ -9,6 +9,7 @@ Reveal.configure({
         40: "next",
         38: "prev",
     },
+    pdfSeparateFragments: false,
 });
 Reveal.initialize({
     hash: true,

@@ -1,4 +1,4 @@
-<!-- .slide: data-transition="slide" data-auto-animate -->
+<!-- .slide: data-transition="slide" data-auto-animate class="changelog" -->
 # Changelog.md
 
 [KeepAChangelog.com](https://keepachangelog.com) <!-- .element: class="fragment -->
