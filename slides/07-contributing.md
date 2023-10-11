@@ -1,8 +1,18 @@
-<!-- .slide: data-transition="slide" -->
+<!-- .slide: data-transition="slide" data-auto-animate -->
 # Contributing.md
 
 - <!-- .element: class="fragment" --> Guide for <em>developers</em> of your library
 - <!-- .element: class="fragment" --> Should cover all the ways users can contribute to your project
+  - <!-- .element: class="fragment" --> Bug reports
+  - <!-- .element: class="fragment" --> Enhancements
+  - <!-- .element: class="fragment" --> Questions
+  - <!-- .element: class="fragment" --> Code & Pull Requests
+
+***
+
+<!-- .slide: data-transition="slide" data-auto-animate -->
+# Contributing.md
+
 - <!-- .element: class="fragment" --> Development environment setup
 - <!-- .element: class="fragment" --> Bundled tools & how to use them
 - <!-- .element: class="fragment" --> PR process & branching strategies

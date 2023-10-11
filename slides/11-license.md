@@ -11,6 +11,8 @@
 
 [Choose a License](https://choosealicense.com/) <!-- .element: class="fragment" -->
 
+(choosealicense.com) <!-- .element: class="fragment" -->
+
 ![Choose a license homepage](../img/choose-a-license.png) <!-- .element: class="fragment" style="max-height: 300px"-->
 
 ***
@@ -23,3 +25,6 @@
 - <!-- .element: class="fragment" --> Mandates items I personally care most about
   - <!-- .element: class="fragment" --> ...without limiting certain uses
 - <!-- .element: class="fragment" --> Easy to spell
+
+notes: it's literally 3 paragraphs and a couple headings
+choosealicense.com lays out what is and isn't provided by each license ([L]GPL vs MIT)

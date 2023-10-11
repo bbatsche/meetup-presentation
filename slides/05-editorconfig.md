@@ -2,7 +2,7 @@
 # Editorconfig
 
 - <!-- .element: class="fragment" --> Modify editor settings of your contributors
-- <!-- .element: class="fragment" --> Simple <a href="https://editorconfig.org/">specification</a>
+- <!-- .element: class="fragment" --> Simple <a href="https://editorconfig.org/">specification</a> (editorconfig.org)
 - <!-- .element: class="fragment" --> Especially useful for files that aren't checked by your style utility (configs, <code>*.xml</code>, <code>*.yml</code>, etc)
 - <!-- .element: class="fragment" --> Not necessarily a silver bullet
 
@@ -11,7 +11,7 @@
 <!-- .slide: data-transition="slide" -->
 # Editorconfig
 
-```ini
+```ini [1-6|8-12|14-15]
 [*]
 end_of_line = lf
 insert_final_newline = true
