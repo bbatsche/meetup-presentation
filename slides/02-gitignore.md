@@ -106,6 +106,9 @@ Thumbs.db
 
 ![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" style="width: 640px" -->
 
+note: sets a theme of presentation: there are a lot of online tools to generate
+or help you create these files
+
 ***
 
 <!-- .slide: data-transition="slide" data-auto-animate -->

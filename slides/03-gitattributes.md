@@ -34,11 +34,11 @@ An ignore file for your development files <!-- .element: class="fragment" -->
 <!-- .slide: data-transition="slide-in fade-out" -->
 # Gitattributes
 
-![ConsoleColor repo downloaded without gitattributes](../img/gitattributes-before.png) <!-- .element: style="max-height: 600px" -->
+![ConsoleColor repo downloaded without gitattributes](../img/gitattributes-before.png) <!-- .element: style="max-height: 500px" -->
 
 ***
 
 <!-- .slide: data-transition="fade-in slide-out" -->
 # Gitattributes
 
-![ConsoleColor repo downloaded with gitattributes](../img/gitattributes-after.png) <!-- .element: style="max-height: 600px" -->
+![ConsoleColor repo downloaded with gitattributes](../img/gitattributes-after.png) <!-- .element: style="max-height: 500px" -->

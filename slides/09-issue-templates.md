@@ -1,10 +1,15 @@
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Issue Templates
 
+- <!-- .element: class="fragment" --> <code>.github/ISSUE_TEMPLATE/&lt;name&gt;.yml</code>
 - <!-- .element: class="fragment" --> Help guide users to create useful issues for your project
 - <!-- .element: class="fragment" --> Can also help categorize issues for you (bug report, feature request, question, etc)
 - <!-- .element: class="fragment" --> Relatively simple <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms">YAML schema</a>
 - <!-- .element: class="fragment" --> Ultimately generates normal GitHub issues
+
+note: relatively new beta feature of GitHub
+previously could create markdown files that were used to pre-populate the issue form
+new beta feature allows you to create issue forms via yaml
 
 ***
 
@@ -16,6 +21,8 @@
   - ...but make sure there are some guardrails <!-- .element: class="fragment" -->
 - Sometimes less is more <!-- .element: class="fragment" -->
   - This isn't Jira <!-- .element: class="fragment" -->
+
+note: if you're creating a bug report form, what are the key items you need for a bug report?
 
 ***
 
@@ -71,6 +78,7 @@ body:
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Pull Request Templates
 
+- <!-- .element: class="fragment" --> <code>.github/PULL_REQUEST_TEMPLATE.md</code>
 - Guide developer through PR process <!-- .element: class="fragment" -->
 - Use checklists to cover non-automated steps <!-- .element: class="fragment" -->
 - Help contributors know what's expected of their PRs <!-- .element: class="fragment" -->
