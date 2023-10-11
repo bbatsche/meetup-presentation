@@ -2,7 +2,7 @@
 # License
 
 ![warning I'm not a lawyer](../img/warning.gif)
-<!-- .element: class="fragment" -->
+<!-- .element: class="r-stretch" -->
 
 ***
 
@@ -13,7 +13,8 @@
 
 (choosealicense.com) <!-- .element: class="fragment" -->
 
-![Choose a license homepage](../img/choose-a-license.png) <!-- .element: class="fragment" style="max-height: 300px"-->
+![Choose a license homepage](../img/choose-a-license.png) <!-- .element: class="fragment" -->
+<!-- .element: class="r-stretch" -->
 
 ***
 

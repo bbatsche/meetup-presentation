@@ -104,7 +104,8 @@ Thumbs.db
 <!-- .slide: data-transition="fade-in slide-out" data-auto-animate -->
 # Gitignore.io
 
-![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" style="width: 640px" -->
+![Gitignore.io search interface](../img/gitignore.io.png) <!-- .element: class="fragment fade-up" -->
+<!-- .element: class="r-stretch" -->
 
 note: sets a theme of presentation: there are a lot of online tools to generate
 or help you create these files

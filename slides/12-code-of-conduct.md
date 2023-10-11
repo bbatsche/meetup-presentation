@@ -2,7 +2,7 @@
 # Code of Conduct
 
 ![warning I'm still not a lawyer](../img/still-not-warning.gif)
-<!-- .element: class="fragment" -->
+<!-- .element: class="r-stretch" -->
 
 ***
 

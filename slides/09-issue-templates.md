@@ -20,7 +20,7 @@ new beta feature allows you to create issue forms via yaml
 - Give users freedom to explain their thoughts <!-- .element: class="fragment" -->
   - ...but make sure there are some guardrails <!-- .element: class="fragment" -->
 - Sometimes less is more <!-- .element: class="fragment" -->
-  - This isn't Jira <!-- .element: class="fragment" -->
+  - Don't create JIRA <!-- .element: class="fragment" -->
 
 note: if you're creating a bug report form, what are the key items you need for a bug report?
 
@@ -71,7 +71,8 @@ body:
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Issue Templates
 
-![feature request issue form on GitHub](../img/feature-request-form.png) <!-- .element style="max-height: 432px" -->
+![feature request issue form on GitHub](../img/feature-request-form.png)
+<!-- .element: class="r-stretch" -->
 
 ***
 

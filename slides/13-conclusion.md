@@ -1,7 +1,8 @@
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Results
 
-![GitHub repository sidebar highlighting links to project resources](../img/project-sidebar.png) <!-- .element: style="max-height: 240px"-->
+![GitHub repository sidebar highlighting links to project resources](../img/project-sidebar.png)
+<!-- .element: class="r-stretch" -->
 
 Adding these files change the way GitHub presents your project
 
@@ -10,7 +11,8 @@ Adding these files change the way GitHub presents your project
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Results
 
-![new issue templates](../img/issue-templates.png) <!-- .element: style="max-height: 294px"-->
+![new issue templates](../img/issue-templates.png)
+<!-- .element: class="r-stretch" -->
 
 Adding these files change the way GitHub presents your project
 
@@ -19,7 +21,8 @@ Adding these files change the way GitHub presents your project
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Results
 
-![new issue sidebar](../img/new-issue-sidebar.png) <!-- .element: style="max-height: 235px"-->
+![new issue sidebar](../img/new-issue-sidebar.png)
+<!-- .element: class="r-stretch" -->
 
 Adding these files change the way GitHub presents your project
 
@@ -29,12 +32,14 @@ Adding these files change the way GitHub presents your project
 # Results
 
 ![comment footer](../img/comment-panel.png)
+<!-- .element: class="r-stretch" -->
 
 Adding these files change the way GitHub presents your project
 
 ***
 
-# Where can I get all this?
+<!-- .slide: data-transition="slide" -->
+## Where can I get all this?
 
 - <!-- .element: class="fragment" --> <a href="https://github.com/bbatsche/php-project-template/">PHP Project Template</a>
   - <!-- .element: class="fragment" --> PHP library specific
@@ -42,7 +47,8 @@ Adding these files change the way GitHub presents your project
 
 ***
 
-# Where can I find out more about you?
+<!-- .slide: data-transition="slide" -->
+## Where can I find out more about you?
 
 - GitHub: [@bbatsche](https://github.com/bbatsche)
 - Bluesky: [@bbatsche.bsky.social](https://bsky.app/profile/bbatsche.bsky.social)

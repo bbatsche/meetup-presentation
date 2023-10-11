@@ -17,12 +17,12 @@
 <!-- .slide: data-transition="slide" data-auto-animate -->
 # Changelog.md
 
-- <!-- .element: class="fragment" --> <code>Added</code> for new features.
-- <!-- .element: class="fragment" --> <code>Changed</code> for changes in existing functionality.
-- <!-- .element: class="fragment" --> <code>Deprecated</code> for soon-to-be removed features.
-- <!-- .element: class="fragment" --> <code>Removed</code> for now removed features.
-- <!-- .element: class="fragment" --> <code>Fixed</code> for any bug fixes.
-- <!-- .element: class="fragment" --> <code>Security</code> in case of vulnerabilities.
+- `Added` for new features.
+- `Changed` for changes in existing functionality.
+- `Deprecated` for soon-to-be removed features.
+- `Removed` for now removed features.
+- `Fixed` for any bug fixes.
+- `Security` in case of vulnerabilities.
 
 ***
 
