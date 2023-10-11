@@ -1,7 +1,7 @@
 <!-- .slide: data-transition="slide" -->
 # Developer Friendly Projects
 
-Creating open source projects developers *enjoy* contributing to
+Creating open source projects<br>developers *enjoy* contributing to
 
 ---
 

@@ -3,7 +3,7 @@
 
 - <!-- .element: class="fragment" --> <code>.github/ISSUE_TEMPLATE/&lt;name&gt;.yml</code>
 - <!-- .element: class="fragment" --> Help guide users to create useful issues for your project
-- <!-- .element: class="fragment" --> Can also help categorize issues for you (bug report, feature request, question, etc)
+- <!-- .element: class="fragment" --> Can also help categorize issues for you<br>(bug report, feature request, question, etc)
 - <!-- .element: class="fragment" --> Relatively simple <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms">YAML schema</a>
 - <!-- .element: class="fragment" --> Ultimately generates normal GitHub issues
 

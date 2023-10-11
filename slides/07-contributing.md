@@ -2,7 +2,7 @@
 # Contributing.md
 
 - <!-- .element: class="fragment" --> Guide for <em>developers</em> of your library
-- <!-- .element: class="fragment" --> Should cover all the ways users can contribute to your project
+- <!-- .element: class="fragment" --> Should cover all the ways users can<br>contribute to your project
   - <!-- .element: class="fragment" --> Bug reports
   - <!-- .element: class="fragment" --> Enhancements
   - <!-- .element: class="fragment" --> Questions
