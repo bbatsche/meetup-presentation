@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/bbatsche/meetup-presentation",
   "dependencies": {
-    "reveal.js": "^4.4.0"
+    "reveal.js": "^5.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
