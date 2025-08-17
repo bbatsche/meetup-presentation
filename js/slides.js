@@ -1,24 +1,28 @@
-import "../stylesheets/style.scss";
+import "../styles/slides.scss";
 import Reveal from "reveal.js";
-import RevealMarkdown from "reveal.js/plugin/markdown/markdown.esm.js";
 import RevealHighlight from "reveal.js/plugin/highlight/highlight.esm.js";
+import RevealMarkdown from "reveal.js/plugin/markdown/markdown.esm.js";
 import RevealNotes from "reveal.js/plugin/notes/notes.esm.js";
 
-Reveal.configure({
-    keyboard: {
-        40: "next",
-        38: "prev",
-    },
-    pdfSeparateFragments: false,
+const slides = new Reveal({
+  controls: "speaker-only",
+  slideNumber: "h/v",
+  showSlideNumber: "speaker",
+  hash: true,
+  history: true,
+  transition: "none",
+  defaultTiming: null, // Figure out pace for 50 minute presentation
+  pdfSeparateFragments: false,
+  plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+  markdown: {
+    smartypants: true,
+    breaks: true,
+    gfm: true,
+  },
+  center: false,
+  width: 1280,
+  height: 800,
+  margin: 0.2,
 });
-Reveal.initialize({
-    hash: true,
-    transition: "none",
-    history: "true",
-    plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
-    markdown: {
-        smartypants: true,
-    },
-    width: 1024,
-    height: 640
-});
+
+slides.initialize();

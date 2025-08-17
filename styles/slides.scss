@@ -1,3 +1,10 @@
+@use "~reveal.js/dist/reset";
+@use "h5bp";
+@use "~reveal.js/dist/reveal";
+@use "~reveal.js/dist/theme/moon";
+@use "~reveal.js/plugin/highlight/monokai";
+@use "~reveal.js/plugin/highlight/zenburn";
+
 $primary-color: #eb811b;
 
 .highlight {
@@ -13,13 +20,16 @@ $primary-color: #eb811b;
     text-align: left;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     text-transform: none;
   }
 }
 
 .changelog {
-  p, li {
+  p,
+  li {
     font-size: 32px;
   }
 }

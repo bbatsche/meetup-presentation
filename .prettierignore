@@ -1,0 +1,2 @@
+# Prettier doesn't allow using *** for horizontal rules
+slides/*.md

@@ -28,4 +28,4 @@
 - <!-- .element: class="fragment" --> Easy to spell
 
 notes: it's literally 3 paragraphs and a couple headings
-choosealicense.com lays out what is and isn't provided by each license ([L]GPL vs MIT)
+choosealicense.com lays out what is and isn't provided by each license (\[L\]GPL vs MIT)
